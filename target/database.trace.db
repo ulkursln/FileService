@@ -1,3 +1,0 @@
-2023-03-14 13:00:17 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "files" not found (this database is empty); SQL statement:
-insert into files (id, content, file_name, type) values (default, ?, ?, ?) [42104-214]
